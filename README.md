@@ -1,6 +1,17 @@
+<div align="center">
+    <h1> Med-U1: Incentivizing Unified Medical Reasoning in LLMs via Large-scale Reinforcement Learning </h1>
+    <a href="https://github.com/Monncyann/Med-U1">
+    <br>
+</div>
+
+<br>
+<br>
+
+## How to Use?
+
 ### Installation
 
-git clone https://github.com/cmu-l3/l1.git
+git clone https://github.com/Monncyann/Med-U1.git
 
 conda create -n medu1 python==3.11
 
