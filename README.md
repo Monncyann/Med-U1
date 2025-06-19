@@ -1,6 +1,6 @@
 <div align="center">
     <h1> Med-U1: Incentivizing Unified Medical Reasoning in LLMs via Large-scale Reinforcement Learning </h1>
-    <a href="https://github.com/Monncyann/Med-U1">
+    <a href="https://arxiv.org/abs/2506.12307"><img src="https://img.shields.io/badge/arXiv-2506.12307-red.svg?style=for-the-badge"></a>
     <br>
 </div>
 
