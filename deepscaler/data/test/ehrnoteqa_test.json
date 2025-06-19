@@ -1,0 +1,1046 @@
+[
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What were the differences in symptom presentations in the patient's hospital visits on 2132-03-29 and 2135-04-03, and what were the diagnoses in these cases?",
+    "choices": {
+      "A": "The patient's 2132-03-29 visit was characterized by symptoms of vomiting, diarrhea, and dizziness, leading to a diagnosis of gastroenteritis. Meanwhile, the second visit in 2135-04-03 exhibited similar symptoms but without diarrhea, leading to a diagnosis of viral gastroenteritis.",
+      "B": "The patient presented with the same symptoms during both visits, specifically abdominal pain, nausea, and vomiting, and the diagnosis in both instances was gastroenteritis.",
+      "C": "In the 2132-03-29 visit, the patient complained about heartburn and indigestion, and was diagnosed with acid reflux. In the 2135-04-03 visit, the patient complained about nausea and vomiting, and was diagnosed with viral gastroenteritis and dehydration.",
+      "D": "During the 2132-03-29 visit, the patient reported experiencing headaches and a fever, and was diagnosed with influenza. The 2135-04-03 visit resulted in a diagnosis of viral gastroenteritis and dehydration based on reported symptoms of nausea, vomiting, and diarrhea.",
+      "E": "In the first visit in 2132-03-29, the patient suffered from seizures and was diagnosed with epilepsy. In the second visit in 2135-04-03, they complained about nausea and vomiting and were diagnosed with viral gastroenteritis and dehydration."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the reason for the patient's recurrent shortness of breath over the months prior to admission, as per the note charted on 2155-07-05?",
+    "choices": {
+      "A": "Chronic obstructive pulmonary disease",
+      "B": "Chronic gastrointestinal issues related to Crohn's disease",
+      "C": "arterial fibrillation",
+      "D": "General old age and frailty",
+      "E": "A history of heart failure and atrial fibrillation"
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "How was acute heart failure managed during the patient's first admission as mentioned in the discharge summary charted on 2166-11-25?",
+    "choices": {
+      "A": "The patient underwent cardiac catheterization with stent insertion in a coronary artery.",
+      "B": "The patient's heart failure was managed through a dietary change.",
+      "C": "Increased doses of Simvastatin were administered to manage the patient's heart failure.",
+      "D": "An emergent permanent pacemaker was implanted in the patient to manage heart failure.",
+      "E": "The patient underwent a surgery to place a stent in her heart to manage heart failure."
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What were the findings of the patient's pelvic ultrasound and what was the primary discharge diagnosis?",
+    "choices": {
+      "A": "The patient has an arteriovenous malformation in the endometrium extending into the fundal myometrium, and a complex cystic lesion in the left ovary. The discharge diagnosis is endometrioma.",
+      "B": "The patient has an arteriovenous malformation in the endometrium extending into the fundal myometrium, and a complex cystic lesion in the left ovary. The discharge diagnosis is a uterine arteriovenous malformation.",
+      "C": "The patient was found to have a morphine allergy. No anomalies were found on the pelvic ultrasound, and the primary discharge diagnosis was uterine arteriovenous malformation.",
+      "D": "The ultrasound revealed no anomalies; the discharge diagnosis was a uterine arteriovenous malformation.",
+      "E": "The patient exhibits an arteriovenous malformation located in the endometrium that extends into the fundal myometrium. Additionally, there is a heterogeneously echoic region with pronounced vascularity observed in the myometrium."
+    },
+    "answer": "B"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "Which discharge medications were prescribed specifically in connection with the patient's second surgery?",
+    "choices": {
+      "A": "Hydrocodone-Acetaminophen for pain relief",
+      "B": "Levothyroxine for thyroid hormone replacement",
+      "C": "Calcium Carbonate for supplement",
+      "D": "Acetaminophen for moderate pain relief",
+      "E": "Flagyl vaginal gel"
+    },
+    "answer": "B"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What significant past medical procedures did the patient undergo during her third admission, and what was the purpose of each procedure?",
+    "choices": {
+      "A": "The patient has undergone laparoscopic hernia repair due to chronic dysphagia.",
+      "B": "The patient has received aorto bi-femoral bypass to treat an infrarenal aortic aneurysm and aortoiliac occlusive disease. ",
+      "C": "The patient has received video-assisted thoracoscopic surgery to address a right lower lobe lung nodule.  ",
+      "D": "The patient has received esophagogastroduodenoscopy due to uncertain anemia. ",
+      "E": "The patient has undergone ventral hernia repair due to a large hiatal hernia. She tolerated the procedure well and returned to the PACU in stable condition."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What were the noticeable changes in the patient's conditions when she was admitted in her two different instances, particularly in terms of the nature of her twins and contractions?",
+    "choices": {
+      "A": "The nature of the twins was identical in both instances and the frequency of contractions increased in the second instance.",
+      "B": "The nature of the twins changed from di-di to mono-di, but the contractions remained the same in both instances.",
+      "C": "In both instances, she was carrying di-di twins, but the intensity of contractions remained the same.",
+      "D": "In the first instance, she was carrying di-di twins and had contractions after contacts, while in the second instance, she was carrying mono-di twins and had preterm contractions.",
+      "E": "The patient was carrying mono-di twins in both instances and contractions escalated in the second instance."
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What injury did the patient sustain from his mechanical fall and how was it managed during their hospital stay?",
+    "choices": {
+      "A": "The patient broke his right rib and it was managed by bandaging the area tightly.",
+      "B": "The patient suffered from a subcapsular kidney hematoma which was managed by constant kidney flushing.",
+      "C": "The patient had a subcapsular spleen injury managed with a chest tube insertion.",
+      "D": "This patient had a small subcapsular liver hematoma, managed by following chest tube output and performing serial abdominal exams.",
+      "E": "The patient had a subcapsular liver injury, managed through a series of minor surgeries."
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What should be the follow-up approach with regards to the \"indeterminate segment II liver lesion\" noted on CT imaging during the patient's last admission?",
+    "choices": {
+      "A": "The patient should undergo a CT scan for further assessment.",
+      "B": "The patient should have a biopsy of the liver lesion.",
+      "C": "There is no immediate need for follow-up, but the condition should be observed if the patient's symptoms worsen.",
+      "D": "The patient should have an abdominal ultrasound for a more detailed examination of the liver lesion.",
+      "E": "The patient should be referred for surgical removal of the liver lesion."
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was one of the main clinical manifestations the patient experienced during this hospital admission?",
+    "choices": {
+      "A": "Patient had large amounts of bright red blood in their stools",
+      "B": "The patient experienced extreme fever and chills ",
+      "C": "The patient had signs of syphilis and had to undergo Penicillin treatment",
+      "D": "The patient had a lichen simplex but was not treated with steroid cream due to ineffectiveness",
+      "E": "The patient had clotting issues due to low platelet count"
+    },
+    "answer": "B"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the first episode that this patient presented with and how was it managed in the hospital?",
+    "choices": {
+      "A": "The patient presented with a rash which was managed with the application of Triamcinolone Acetonide ointment.",
+      "B": "The patient was admitted with abdominal pain as a result of leukocytoclastic vasculitis, which was managed with Humira.",
+      "C": "The patient was admitted to the hospital for an increase in frequency of obstruction episodes and was treated with medications including Escitalopram Oxalate and Lisinopril.",
+      "D": "The patient was admitted due to a small bowel obstruction episode that was managed conservatively with placement of an NGT and providing IVF until the ostomy output normalized.",
+      "E": "The patient was admitted for severe abdominal pain due to Crohn's disease, and was treated with small bowel resection."
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the patient's liver function tests results at the day of discharge after his surgery which happened around 2119-11-11?",
+    "choices": {
+      "A": "The tests showed a high level of bilirubin at 1.4",
+      "B": "The test results indicated a glucose level of 106 and Creatinine of 0.8",
+      "C": "The results indicated an ALT of 138, AST of 204, Alk Phos of 207, and T Bili of 0.4",
+      "D": "The results indicated an ALT of 49, AST of 51, Alk Phos of 207, and T Bili of 0.4",
+      "E": "The liver function tests showed AST 204 and ALT 138"
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What past medical history was significant for the patient admitted on 2188-04-08 for menorrhagia, likely due to adenomyosis, that contributed to their treatment plan?",
+    "choices": {
+      "A": "Prior experience of severe reaction to Sulfa (Sulfonamide Antibiotics)",
+      "B": "Medical history of three Therapeutic Abortion (TAB)",
+      "C": "Historical record of Herpes Simplex Virus (HSV)",
+      "D": "Medical history of Systemic Lupus Erythematosus (SLE)",
+      "E": "Past medical history of adenomyosis"
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What were the initial and final cardiac medications prescribed to the patient, and why was a change made?",
+    "choices": {
+      "A": "The patient was first given 325mg ASA and then was switched to Lipitor 20 mg daily because of strong family history of heart disease.",
+      "B": "Metformin 1000mg was the initial cardiac medication, but then it was changed to gabapentin 600mg TID because her stress test results were positive.",
+      "C": "The initial cardiac medication was metaxalone 800mg BID and it was changed to aspirin 81mg based on neurologist's recommendation.",
+      "D": "The patient was initially prescribed 325mg ASA and was then changed to 81mg ASA because all her cardiac tests returned negative results.",
+      "E": "The patient was started on metaxalone 800mg BID, but it was later switched to Lantus 100 unit/mL Solution to maintain her blood pressure levels."
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the probable cause of the patient's scrotal and penile swelling occurring after his right inguinal hernia repair, according to the tests and assessments done during his last hospital stay?",
+    "choices": {
+      "A": "Penile and scrotal edema is caused by cellulitis",
+      "B": "Bowel wall thickening and adjacent stranding within the sigmoid colon",
+      "C": "Prostate cancer treated with external beam radiation",
+      "D": "Mild edema of the soft tissues is associated with infectious cause.",
+      "E": "Mild edema of the soft tissues, likely secondary to recent surgical procedure"
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the suspected cause of the patient's abdominal pain and bloating?",
+    "choices": {
+      "A": "The patient experienced abdominal pain due to the negative reaction to codeine, tramadol, and guaifenesin to which she is allergic.",
+      "B": "The patient's abdominal pain and bloating were attributed to an ectopic pregnancy.",
+      "C": "The abdominal pain and bloating related to tubal factor infertility.",
+      "D": "The pain and bloating were caused by menstruation-related discomforts.",
+      "E": "It is likely because of ovarian hyperstimulation syndrome (OHSS) suspectedly resulting from the recent IVF procedure."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the clinical suspicion towards the cause of the expanding abdominal aortic aneurysm (AAA) in the patient, what intervention was performed, and what were the findings?",
+    "choices": {
+      "A": "The patient's enlarging abdominal aortic aneurysm was suspected to be a result of an ongoing endoleak, spinal cord compression was treated, and no abnormal findings were found.",
+      "B": "The patient's expanding AAA was suspected to be a result of hypertension, a cardiothoracic surgery was performed, and an enlarged heart was found.",
+      "C": "The patient's enlarging abdominal aortic aneurysm was suspected due to a hidden endoleak with a big lumbar artery contributing, a coil embolization of the lumbar artery was performed, and no evidence of endoleak found after the procedure.",
+      "D": "The patient's expanding AAA was suspected to be a result of hypertension, and EVAR was performed to control the endoleak.",
+      "E": "The patient's AAA enlargement was suspected to be due to lifestyle habits, a graft relining procedure was performed, and blocked arteries were discovered."
+    },
+    "answer": "C"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What are the differential diagnosis considered for the patient's symptoms of persistent fevers, elevated LFTs, and cervical lymphadenopathy?",
+    "choices": {
+      "A": "Hepatitis A Virus infection",
+      "B": "Epstein-Barr Virus, Cytomegalovirus, or Toxoplasmosis infections",
+      "C": "Hemangioma formation",
+      "D": "HIV infection",
+      "E": "Lyme disease infection"
+    },
+    "answer": "B"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What is the significant medical history of the patient including surgical procedures?",
+    "choices": {
+      "A": "The patient was advised to continue with their current pain medication regimen and see a physiotherapist.",
+      "B": "The doctors suggested the patient start a new therapy routine on their own at home.",
+      "C": "The physician recommended an additional surgery to improve the patient's condition.",
+      "D": "The treating team advised the patient to strictly control his diet and exercise regularly.",
+      "E": "The patient was told to avoid lifting any heavy objects and maintain bed rest."
+    },
+    "answer": "C"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What medications were initiated for the patient's alcohol cravings and anxiety disorder during her hospital stay?",
+    "choices": {
+      "A": "Naltrexone and Sertraline",
+      "B": "IV Ativan and Phenobarbital",
+      "C": "Folic Acid and Thiamine",
+      "D": "Nitrofurantoin and Ceftriaxone",
+      "E": "Diazepam and Gabapentin"
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What were the lab results suggesting severe liver damage in the patient during the initial admission, and what was the patient's final diagnosis?",
+    "choices": {
+      "A": "High white blood cell count and the patient was diagnosed with Polymyalgia Rheumatica",
+      "B": "Elevated ALT and AST levels were observed, and unfortunately, the patient passed away shortly after admission, despite maintaining an alert mental status.",
+      "C": "Increased ALT and AST levels, and the patient passed away shortly after admission",
+      "D": "High levels of HCO3 and the patient was transferred to another hospital for emergent ERCP",
+      "E": "Elevated creatinine and urea levels and the patient was diagnosed with kidney failure"
+    },
+    "answer": "C"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the diagnosis at discharge and what medical treatments were prescribed for the patient with Admission ID: 29076073?",
+    "choices": {
+      "A": "The discharge diagnosis for the patient was ovarian mucinous neoplasm and latent mycobacterium infection / TB with reactivation and was prescribed Acetaminophen, Docusate Sodium, Ibuprofen, and OxyCODONE for her treatment and managing pain.",
+      "B": "The discharge diagnosis for the patient was endometriosis and was prescribed antibiotics for treatment.",
+      "C": "The discharge diagnosis for the patient was PMH and was prescribed epidural for pain relief.",
+      "D": "The discharge diagnosis for the patient was pmh and was prescribed antibiotics for latent TB and ileus.",
+      "E": "The discharge diagnosis for the patient was gynecologic oncology and was prescribed airborne precautions."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What surgical/invasive procedures have the patient gone through and what were the associated diagnosis and treatment outcomes?",
+    "choices": {
+      "A": "The patient has had a laparoscopic cholecystectomy due to cholecystitis and was prescribed ciprofloxacin and metronidazole to progress his recovery post-procedure.",
+      "B": "The patient had an incision and drainage of abdominal wall abscess due to bacteremia and urinary tract infection, and was on antibiotics post-procedure. Following that, the patient underwent laparoscopic cholecystectomy and exploration of the cystic duct.",
+      "C": "The patient had a heart bypass surgery due to severe coronary artery disease and was prescribed aspirin and other heart medicines following the procedure.",
+      "D": "The patient underwent an appendectomy due to inflammation of the appendix and recovered without complications.",
+      "E": "The patient had an ERCP to remove stones from the biliary tract due to choledochlolithiasis and was recommended for a follow-up cholecystectomy."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What developed in the patient while under care, and what medical procedure was performed to address these developments during the patient's last hospital admission?",
+    "choices": {
+      "A": "The patient developed neck tenderness along the shunt tubing and then underwent a subocciptal craniectomy for removal of meningioma.",
+      "B": "The patient developed a severe headache and was treated with right parieto-occipital craniotomy for resection of parasagital meningioma.",
+      "C": "The patient experienced swelling around the face and eyes and had a right frontal approach VP shunt surgery placed.",
+      "D": "The patient exhibited significant aqueductal stenosis, albeit asymptomatic. An elective right ventriculoperitoneal (VP) shunt was successfully placed to address hydrocephalus, and she was discharged in a stable condition.",
+      "E": "The patient had progressive hearing loss for which laser ear surgery was performed."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the culture result from the patient's first admission and how were his antibiotics adjusted based on this result?",
+    "choices": {
+      "A": "The culture grew out beta lactamase negative Acetaminophen and antibiotics were switched to methadone and oxycodone.",
+      "B": "There was no mention of a culture result on the patient's first admission.",
+      "C": "The culture grew out beta lactamase negative Hepatitis C and antibiotics were adjusted to Keflex and Ancef.",
+      "D": "The culture result showed Staphylococcus aureus, so the antibiotics were adjusted to vancomycin and gentamicin.",
+      "E": "The culture was positive for beta lactamase negative Haemophilus influenzae and antibiotics were changed to cefepime and flagyl."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the patient's past medical history and what type of abscess was found during the physical examination?",
+    "choices": {
+      "A": "The patient has a history of TIDM and the perirenal abscess was found.",
+      "B": "Previous history of Heart Failure and the physical examination revealed a renal abscess.",
+      "C": "The patient's past medical history includes Coronary Artery Disease and the abscess located was cardiac.",
+      "D": "The patient was previously diagnosed with Type II Diabetes Mellitus and a cerebral abscess was found.",
+      "E": "The patient has a history of Type I Diabetes Mellitus, poorly controlled, and was found to have a perianal abscess during the physical examination."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "Did the patient's hemoglobin levels improve from 2166-11-22 to 2167-08-25?",
+    "choices": {
+      "A": "The hemoglobin levels remained the same.",
+      "B": "The hemoglobin levels worsened from 11.6 to 9.0.",
+      "C": "There was no record of hemoglobin levels on 2167-08-25.",
+      "D": "The hemotocrit levels was increased from 25.3 to 33.4.",
+      "E": "The hemoglobin levels improved from 9.0 to 11.6."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What changes were made to the patient's medication regimen during the hospitalization in 2148 to deal with her hyponatremia and acute renal failure?",
+    "choices": {
+      "A": "The patient's dosage of tacrolimus was increased.",
+      "B": "The patient was put on an IV diuretics regimen.",
+      "C": "The patient was put on PO lasix regimen.",
+      "D": "The patient was started on a higher dose of insulin.",
+      "E": "Invasive surgical procedure was performed to correct the abnormalities."
+    },
+    "answer": "B"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the surgical procedure performed on the patient's last visit and what were the post-operative instructions?",
+    "choices": {
+      "A": "The patient underwent a kidney stone procedure and was advised to continue his regular medication routine, including aspirin and antihypertensive drugs.",
+      "B": "The patient underwent a knee surgery and was advised to stop all pre-admission medications until his wound healed completely.",
+      "C": "The patient had a brain scan and was advised to take his medications as prescribed by his neurologist upon discharge.",
+      "D": "The patient underwent a cataract surgery and was advised to stop all pre-admission medications until his next visit to the ophthalmologist.",
+      "E": "The patient underwent transurethral resection of prostate (TURP) and was told to hold aspirin, but continue other prostate medications."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the major surgical or invasive procedure performed on the patient during her hospital stay, and what was the final diagnosis based on the biopsy performed?",
+    "choices": {
+      "A": "The patient underwent a colonscopy which resulted in a diagnosis of polymyalgia rheumatica.",
+      "B": "The patient underwent a sigmoidoscopy which revelaed moderate active colitis",
+      "C": "The patient underwent a colonoscopy which resulted in a diagnosis of severe diffuse mucosal erythema.",
+      "D": "The patient underwent a sigmoidoscopy which resulted in a final pathology of acute infectious colitis.",
+      "E": "The patient underwent an endoscopy which resulted in a diagnosis of basal cell carcinoma."
+    },
+    "answer": "B"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the presenting chief complaint of the patient at the most recent admission and what treatment was the patient prescribed upon discharge?",
+    "choices": {
+      "A": "The patient complained left foot pain, and wanted wound evaluation. The patient was dianosed with cellulitis, which was treated with antibiotics.",
+      "B": "The patient complained right foot deformity, which was treated conservatively with non weight-bearing and pain control medication.",
+      "C": "The patient had post-traumatic arthritis, which were controled with DMARDs.",
+      "D": "The patient complained multiple fractures of left foot, and was surgically treated.",
+      "E": "The patient had wound dehisence in left foot, and required massive debridement with IV antibiotics."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the patient's main complaint during his second admission to the hospital on 2148-10-05 and how was it managed?",
+    "choices": {
+      "A": "The patient complained of diarrhea, which was managed by antibiotics.",
+      "B": "The patient complained of nausea, and it was dealt with by maintaining dietary restrictions.",
+      "C": "The patient complained of severe diarrhea, and it was managed with fluid resuscitation.",
+      "D": "The patient was admitted because of severe abdominal cramping, which was treated with painkillers.",
+      "E": "The patient expressed concern over sudden weight gain, which was managed by reducing high-calorie foods."
+    },
+    "answer": "C"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the patient's highest levels of ALT and AST following the acetaminophen overdose, and what were the levels at the time of discharge?",
+    "choices": {
+      "A": "The highest ALT was around 400 and AST was 500; at discharge, ALT was 60 and AST was 500.",
+      "B": "The highest ALT was about 9000 and AST was 8000; at discharge, ALT was 631 and AST was 60.",
+      "C": "The highest ALT was about 631 and AST was 465; at discharge, ALT was 200 and AST was 400.",
+      "D": "The highest ALT was about 8000 and AST was 9000; at discharge, ALT was 60 and AST was 631.",
+      "E": "The highest ALT was around 9000 and AST was 8000; at discharge, ALP was 631 and Total bilirubin was 60."
+    },
+    "answer": "B"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the primary injury and procedure used to treat it from the accident?",
+    "choices": {
+      "A": "The primary injury was an inverted U shaped laceration on the face and was treated with a surgical incision.",
+      "B": "The primary injury was hematemesis due to bowel injury and was treated with intubation for airway protection",
+      "C": "The primary injury was nasal bone fracture and complex nasal laceration, which were treated with a repair procedure by plastic surgery.",
+      "D": "The primary injury was a maxillary sinus fracture and was treated with facial contouring.",
+      "E": "The primary injury was a nasal bone fracture and deep laceration involving muscle layer, treated by plastic surgery"
+    },
+    "answer": "C"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the course of treatment prescribed for the patient's pyelonephritis during her first admission and has their been any related issues or complications during her second admission?",
+    "choices": {
+      "A": "The patient was prescribed with po Macrobid and pyridium for the treatment of pyelonephritis. There were no related issues or complications during her second visit.",
+      "B": "During her first visit, the patient was treated with prenatal vitamins for pyelonephritis. And on the second visit, there were complications due to elevated WBC count.",
+      "C": "The patient was treated with antibiotics on her first admission, however she developed an allergic reaction which complicated her second admission.",
+      "D": "The patient was prescribed with Ceftriaxone on her first visit. Pyelonephritis leads to preterm labor during secondary admission.",
+      "E": "The patient started treatment with IV Ceftriaxone and was shifted to oral Keflex. No complications related to pyelonephritis were reported during the second admission."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the cause of the transaminitis noticed in the patient during their hospital stay, and did their transaminase levels trend down prior to discharge?",
+    "choices": {
+      "A": "The patient's transaminitis was due to their acute alcohol intake, with transaminase levels falling slightly before discharge.",
+      "B": "Head trauma caused the transaminitis in the patient, and there was a slight decrease in transaminase levels prior to discharge.",
+      "C": "The patient's transaminitis was due to their acute alcohol intake, with slightly increased transaminase levels before discharge.",
+      "D": "The transaminitis in the patient was a result of nicotine withdrawal and their transaminase levels remained elevated throughout the hospital stay.",
+      "E": "The patient's transaminitis was due to their acute alcohol intake, with significantly decreased transaminase levels before discharge."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the patient's tentative cause of erythema and swelling in his left leg on his second admission?",
+    "choices": {
+      "A": "Overuse of the left leg due to anabolic steroid usage",
+      "B": "Intensive extension of the acute fracture in the left leg",
+      "C": "Sudden rise in white blood cell count",
+      "D": "positive for HIV test",
+      "E": "An abrasion on his shin provoked the symptoms"
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What is the patient's history related to his previous medical issues, and what treatment was prescribed following the admission on 2133-06-12?",
+    "choices": {
+      "A": "The patient has a history of paroxysmal atrial fibrillation and anxiety. After being admitted on 2133-06-12, he underwent a DC cardioversion to restore the normal sinus rhythm. He was prescribed Eliquis 5 mg twice a day for a minimum of 1 month.",
+      "B": "The patient has a history of anxiety and paroxysmal atrial fibrillation. Following the admission on 2133-06-12, he underwent liposuction for gynecomastia and his diet was advanced when he tolerated oral intake well.",
+      "C": "The patient has a history of anxiety and inverted nipples. After being admitted on 2133-06-12, he underwent a procedure to correct his inverted nipples, and he was prescribed post-operative pain medication.",
+      "D": "The patient has a history of hepatic steatosis and heart palpitations. Following the admission on 2133-06-12, he was given medication to control heart palpitations and advised to continue home medications.",
+      "E": "The patient has a history of paroxysmal atrial fibrillation and anxiety. Following the admission on 2133-06-12, the patient underwent surgery for gynecomastia and was prescribed pain medication as required."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the operation performed on the patient prior to admission due to post-operative bleeding, and how was it treated in the hospital?",
+    "choices": {
+      "A": "The patient underwent a colonoscopy and the post-operation bleeding was treated with blood transfusion.",
+      "B": "The patient underwent a fistulotomy and the post-operation bleeding was treated with antibiotics.",
+      "C": "The patient underwent a sphincterotomy and the post-operation bleeding was controlled with stitches and cauterization.",
+      "D": "The patient had removal of external hemorrhoids and the post-operation bleeding was handled with direct pressure.",
+      "E": "The patient underwent surgery for an anal fissure and the post-operation bleeding was controlled through blood clotting medications."
+    },
+    "answer": "C"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What significant finding was discovered via an echo done on the patient during their stay?",
+    "choices": {
+      "A": "The patient displayed early signs of ventricular systolic dysfunction.",
+      "B": "The patient was found to have moderate aortic valve stenosis.",
+      "C": "The patient had an abnormally increased left atrial volume index.",
+      "D": "The patient exhibited persistent RV hypokinesis.",
+      "E": "The patient showed signs of chronic microvascular ischemic changes."
+    },
+    "answer": "B"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the major surgical or invasive procedure performed during the patient's second admission due to recurrent right pneumothorax?",
+    "choices": {
+      "A": "Right chest tube/dart placement for pneumothorax",
+      "B": "Administration of hydromorphone pain management",
+      "C": "Placement of right pigtail catheter for drainage",
+      "D": "Knee Surgery",
+      "E": "Right video-assisted thoracoscopy, blebectomy with mechanical and chemical pleurodesis"
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the patient's clinical course and management plan during her second admission following the total thyroidectomy and parathyroid procedures?",
+    "choices": {
+      "A": "Another thyroid surgery was done during her second admission and was provided insulin for tending her newly diagnosed Diabetes.",
+      "B": "The patient received antimicrobial therapy for a HSV infection identified in blood cultures. Additionally, surgical drainage was performed to address an infected seroma in the neck wound, and the patient was subsequently prescribed oral Augmentin.",
+      "C": "The patient was readmitted because of a high fever and neck pain. The treatment included surgical drainage and oral Augmentin, as the cultures revealed MSSA. Additionally, the patient was diagnosed with a deep vein thrombosis (DVT) in her left internal jugular vein, which was managed with a combination of Heparin and Coumadin administered at home.",
+      "D": "The patient was hospitalized due to a pneumonia infection and was treated with a course of antibiotics.",
+      "E": "The patient was readmitted for total knee replacement surgery and was provided physical therapy sessions for faster recovery."
+    },
+    "answer": "C"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What is the patient's mobility status, medications and their regime, as well as the main plan of care post operation for the right distal femur fracture?",
+    "choices": {
+      "A": "The patient requires assistance or aid to move, is taking several medication including Enoxaparin Sodium and Oxycodone as needed, and instruction includes taking anticoagulation drug daily for 4 weeks post-operatively.",
+      "B": "The patient requires assistance or aid to move, is taking Paracetamol and Senna daily, and should not resume regular activities for at least 2 week post-operatively.",
+      "C": "The patient is bedridden, taking Acetaminophen daily and OxyCODONE as needed, with the caution of constipation that can be caused by narcotic pain reliever.",
+      "D": "The patient is fully mobile, prescribed Tramadol and Lovenox, and advised to return to hospital for wound monitoring after 2 weeks.",
+      "E": "The patient is fully mobile, prescribed Levothyroxine Sodium for hypothyroidism, and the plan of care includes monitoring for constipation due to narcotic pain relievers use."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What medication was the patient put on after the second admission for the treatment of her elevated blood pressure?",
+    "choices": {
+      "A": "After the second admission, the patient was treated with NIFEdipine CR 30 mg orally daily.",
+      "B": "The patient was prescribed Prochlorperazine 10 mg orally every six hours to relieve headaches.",
+      "C": "On discharge, the patient was given Docusate Sodium 100 mg orally twice daily.",
+      "D": "Upon discharge, the patient was prescribed Simethicone 80 mg orally four times a day (QID).",
+      "E": "The patient was discharged with 200mg Labetalol taken orally twice daily."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the endocrine supplement therapy after her thyroidectomy, and did this result in any unexpected consequences?",
+    "choices": {
+      "A": "After her thyroidectomy, she took a daily dose of Levothyroxine Sodium, causing a decrease in her potassium levels.",
+      "B": "The patient was given calcium supplements, which were handled appropriately for her hypoparathyroidism.",
+      "C": "The patient was instructed to take a multivitamin after thyroidectomy, leading to renal pain.",
+      "D": "The patient was prescribed excessive calcium and vitamin D3 supplements, which caused severe hypercalcemia.",
+      "E": "The patient was prescribed Iron and Percocet immediately post thyroidectomy, leading to severe constipation."
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What is the main reason for the patient's second admission to the hospital on 2122-12-05?",
+    "choices": {
+      "A": "The patient was admitted due to an attack of allergic rhinitis.",
+      "B": "The patient was admitted because of fevers and chills associated with prostatic biopsy infection and urosepsis.",
+      "C": "The patient was admitted due to left flank pain caused by an obstructing left ureterovescical junction stone.",
+      "D": "The patient was admitted for prostate cancer surveillance.",
+      "E": "The patient was admitted due to left flank pain associated with prostatic biopsy infection and urosepsis."
+    },
+    "answer": "C"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What combination of medications did the patient leave the hospital taking after his recent stroke event?",
+    "choices": {
+      "A": "Aggrenox, Enoxaparin, and Montelukast",
+      "B": "Naprosyn, Ambien, and Viagra",
+      "C": "Pravastatin, Warfarin, and Enoxaparin",
+      "D": "ASA EC, Pravastatin, and Aggrenox",
+      "E": "Zocor, Warfarin, and Enoxaparin"
+    },
+    "answer": "C"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the patient's primary psychiatric diagnosis upon discharge and what medications were prescribed to manage it?",
+    "choices": {
+      "A": "Upon discharge, the patient was diagnosed with Cluster B traits and was prescribed Trazodone and Folate.",
+      "B": "The patient was diagnosed with Opiate Dependence and was treated with Glyburide and Lispro Insulin.",
+      "C": "The patient was diagnosed with Polysubstance Abuse and was prescribed Mirtazepine and Hydroxazine.",
+      "D": "Upon discharge, the patient was diagnosed with Mood disorder NOS, Hepatitis C, and was given medication for diabetes, Glyburide.",
+      "E": "The patient was diagnosed with Polysubstance Abuse and was prescribed Mirtazepine and Neurontin."
+    },
+    "answer": "C"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the initial treatment strategy of the patient who presented with a suspicious right thyroid nodule and later diagnosed with papillary thyroid carcinoma?",
+    "choices": {
+      "A": "The patient had a right thyroidectomy as the initial treatment strategy.",
+      "B": "The initial treatment strategy was ultrasound guided biopsy of the right thyroid nodule.",
+      "C": "Papillary thyroid carcinoma was initially treated with Calcium Carbonate 1000 milligram by mouth.",
+      "D": "The patient underwent both a right and left thyroidectomy as the initial treatment strategy.",
+      "E": "The initial treatment strategy was a total thyroidectomy, similar to what a maternal cousin of the patient had a year ago."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the primary reason for the patient's subsequent admission after her delivery, as per the report of 2183-06-17?",
+    "choices": {
+      "A": "The patient was re-admitted due to severe pelvic pain.",
+      "B": "The patient had to be admitted due to complications during her vaginal delivery.",
+      "C": "The patient had complications with her pain management regimen and was thus admitted.",
+      "D": "The patient was admitted because of the separation of her pubic symphysis.",
+      "E": "The patient was brought in due to an acute case of pyelonephritis."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "Based on the patient's discharge information, what invasive procedures have been performed to address the patient's cervical stenosis and related symptoms and what medication adjustments were made in response to those surgical outcomes?",
+    "choices": {
+      "A": "The patient underwent a C3-C6 laminectomy and infusion. Acetaminophen 325-650 mg PO Q6H, Gabapentin 300 mg PO TID, and Methocarbamol 750 mg PO QID were prescribed for home use.",
+      "B": "The patient underwent both a C4/5,C5/6 stenosis and cord edema and a C3-6 laminectomy and fusion. Diazepam 5 mg PO BID, Docusate Sodium 100 mg PO BID, and OxyCODONE 5 mg PO Q4H were prescribed for home use.",
+      "C": "The patient underwent a C3-6 laminectomy and fusion. His medications at discharge were Acetaminophen 1000 mg PO Q8H, Gabapentin 100 mg PO Q8H, and OxyCODONE (Immediate Release) 5 mg PO Q4H.",
+      "D": "The patient underwent an MRI of the Tspine. Gabapentin 100 mg PO Q8H, Diazepam 5 mg PO BID, and Docusate Sodium 100 mg PO BID were prescribed for home use.",
+      "E": "The patient underwent an MRI finding of C4/5,C5/6 stenosis and cord edema. Diazepam 5 mg PO BID, Docusate Sodium 100 mg PO BID, and OxyCODONE 5 mg PO Q4H were prescribed for home use."
+    },
+    "answer": "C"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What changes were made to the patient's medication regimen after the hospitalization for hypotension due to dehydration, and what was the contributing factor to the changes?",
+    "choices": {
+      "A": "The patient was advised to stop taking lisinopril and reduce dosage of metoprolol succinate because of hypotension.",
+      "B": "Lisinopril dosage was increased and metoprolol succinate dosage was reduced due to low blood pressure.",
+      "C": "The patient was prescibred an additional medication for high blood pressure.",
+      "D": "The patient was advised to stop taking lisinopril and reduce dosage of metoprolol succinate because of low Creatinine level.",
+      "E": "The patient was prescribed additional pain medication."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the primary discharge diagnosis for the patient during her second admission, and what was the treatment approach?",
+    "choices": {
+      "A": "Endometrial intraepithelial neoplasia, treated with laparoscopic hysterectomy and bilateral salpingo-oophrectomy.",
+      "B": "Asthma exacerbation and upper respiratory tract infection, managed with antibiotics and administration of IV fluids.",
+      "C": "Diabetic patient experiencing pain, controlled with IV dilaudid/toradol given after laparoscopic surgery.",
+      "D": "Asthma exacerbation and upper respiratory tract infection, managed with systemic steroids and nebulizers and inhaled corticosteroid for ongoing treatment.",
+      "E": "Endometrial intraepithelial neoplasia, treated by adjusting diet and prescribing post-operative pain medications."
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the final diagnosis and recommended follow-up procedure for the cardiac condition observed during the patient's first hospital admission?",
+    "choices": {
+      "A": "The final diagnosis was One vessel coronary artery disease and the recommended follow-up procedure was repeat CT in 3 months.",
+      "B": "The patient was diagnosed with stable angina and was prescribed an aspirin regimen.",
+      "C": "The patient was found to have Non-ST Segment Elevation Myocardial Infarction, and the suggested follow-up procedure was cardiac stress test.",
+      "D": "The final diagnosis was Gastroesophageal reflux disease and the recommended follow-up procedure was to start on Prilosec PRN.",
+      "E": "The patient was diagnosed with a benign pulmonary nodule, and the suggested follow-up procedure was to have it followed by a primary care doctor in 3 months."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What allergic reaction does the patient have, and what surgical procedure has she undergone due to her recent accident?",
+    "choices": {
+      "A": "The patient is allergic to Penicillins and underwent an ORIF procedure.",
+      "B": "The patient is allergic to acetaminophen and underwent a posterior hip dislocation procedure.",
+      "C": "The patient is allergic to Penicillin and underwent an LVX procedure. The patient was initially given IV fluids and IV pain medications, and progressed to a regular diet and oral medications.",
+      "D": "The patient is allergic to oxycodone and underwent a SI joint procedure.",
+      "E": "The patient has no allergies and underwent ACL repair surgery."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What were the results of the patient's initial lumbar puncture and what was the suspected diagnosis based on these results during her hospital stay as reported on 2156-11-01?",
+    "choices": {
+      "A": "The lumbar puncture results indicated CSF WBC 335 protein 94 glucose 53 RBC 5, leading to a diagnosis of viral meningitis.",
+      "B": "The lumbar puncture showed CSF WBC 105 and RBC 15, and the patient was treated for bacterial meningitis.",
+      "C": "The lumbar puncture revealed CSF WBC 335 protein 94 glucose 53 RBC 5, which led to a diagnosis of bacterial meningitis.",
+      "D": "The lumbar puncture results revealed CSF with a WBC count of 335, protein level of 94, glucose level of 53, and RBC count of 5, suggesting the coexistence of bipolar disorder and depression. ",
+      "E": "The initial lumbar puncture presented with CSF WBC 335, glucose 53 and RBC 5, suggesting a diagnosis of aseptic meningitis."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the finding in the CTA Chest and recommendation?",
+    "choices": {
+      "A": "The CTA Chest showed Pulmonary Hypertension with recommendation for Cardiac Catheterization.",
+      "B": "The CTA Chest revealed Solid left renal lesion with recommendation for ultrasound for further evaluation.",
+      "C": "The CTA Chest showed Moderate Atherosclerosis with suggested addition of ACE inhibitor.",
+      "D": "The CTA Chest revealed Solid left renal lesion with recommendation for MRI for further evaluation.",
+      "E": "The CTA Chest displayed Extensive scarring in both apices and lung bases with suggested follow-up with PCP."
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What were the significant finding from the patient's second hospital admission that led to change in her treatment plan and what was the rationale behind it?",
+    "choices": {
+      "A": "The patient was found to have a slightly elevated WBC count leading to an appendectomy and subsequent treatment with antibiotics.",
+      "B": "Elevated blood glucose levels signified the onset of diabetes and her medication was adjusted accordingly.",
+      "C": "The patient had abdominal pain and the patient received subcutaneous hepain to manage ischemic colitis.",
+      "D": "The patient's abdominal pain persisted and her stool tested positive for C. difficile, leading to treatment with metronidazole.",
+      "E": "The patient experienced rapid heartbeat, a potential symptom of congestive heart failure, resulting in cardiac medication intervention."
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the patient's past medical history prior to his visit on 2154-06-18 for worsening claudication in his right leg?",
+    "choices": {
+      "A": "The patient had no history of peripheral vascular disease, but had undergone treatment for a rectal polyp.",
+      "B": "The patient had a history of peripheral vascular disease, which was treated with angioplasty and stent placement to right SFA.",
+      "C": "A kidney cyst removal had been done previously, but there was no record of any history of peripheral vascular disease.",
+      "D": "The patient did have a history of peripheral vascular disease but it was treated by a Laparoscopic Right Colectomy.",
+      "E": "The patient had a past history of colonic polyps, but no history of peripheral vascular disease was mentioned."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What dietary instructions were provided to her post-surgery for her achalasia?",
+    "choices": {
+      "A": "Dietary instructions included a full liquid diet, to avoid chewing gum and carbonated drinks, and advance to canned fruits, vegetables, and chicken steak once she had no difficulties in swallowing.",
+      "B": "Dietary instructions included proceeding from clear liquids to solid foods such as eggs and oatmeal as tolerated without causing excessive bloating or gas.",
+      "C": "Dietary instructions involved starting with a roasted chicken and mashed potatoes diet, and avoid swallowing air to prevent bloating.",
+      "D": "Dietary instructions advised to stay on a clear liquid diet including soup, chowders, and juices until recovery.",
+      "E": "Dietary advice was to start with soft foods and clear liquids, advance to moist foods like pudding and yogurt, and eventually include fresh fruits, vegetables, and rice in her diet as tolerated."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What could have potentially caused the patient's sinus tachycardia?",
+    "choices": {
+      "A": "The patient had an abnormality in her heart structure causing the rapid heart rate.",
+      "B": "The patient had excessive alcohol intake leading to sinus tachycardia.",
+      "C": "The patient had an electrolyte imbalance that might have led to sinus tachycardia.",
+      "D": "The patient had stayed dehydrated for a long duration which might have resulted in sinus tachycardia.",
+      "E": "The patient had thyroid dysfunction resulting in sinus tachycardia."
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the cause of the swelling in the patient's neck, as documented in the second note and what was the treatment approach?",
+    "choices": {
+      "A": "The patient had an incisional hernia that was treated through laparoscopic hernia repair.",
+      "B": "The patient had photosensitivity that caused the swelling, managed through avoidance of sun exposure.",
+      "C": "The patient's neck swelling resulted from a Streptococcus infection and was managed with intravenous antibiotics.",
+      "D": "The patient's swelling was a result of hypertension and managed through daily medication.",
+      "E": "The patient's neck swelling was due to a staphylococcus infection or abscess and was treated with an incision, drainage, and antibiotics."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What is the most likely reason for the patient's syncopal (fainting) episode, according to the discharge summary dated 2141-11-28, and what diagnostic tests or results were utilized to determine the cause?",
+    "choices": {
+      "A": "The patient's fainting episode was probably due to an aneurysm, as indicated by the CT HEAD findings in the report.",
+      "B": "The patient's fainting was most likely due to a vasovagal episode experienced during voiding, based on the hospital course noted in the discharge summary and the results of CTA and EKG tests.",
+      "C": "The patient's syncopal condition was likely due to PE, as suggested by CTA.",
+      "D": "The patient's fainting could be owed to a cardiac issue, as implied by the EKG results in the discharge report.",
+      "E": "The patient's fainting episode was likely due to a pulmonary embolus, as suggested by the CTA CHEST results in the discharge summary."
+    },
+    "answer": "B"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What were the injuries identified in the patient after he was admitted to the hospital on 2178-07-10 following a train accident?",
+    "choices": {
+      "A": "The patient had a mild case of hypothermia and multiple fractures in both hands.",
+      "B": "The patient had damage to the left hand, right hand and right knee, in addition to a decreased breath sound in the left chest.",
+      "C": "The patient had fractures along the spinal column and was unresponsive due to trauma.",
+      "D": "He had diminished breath sounds and a needle decompression was performed on the left chest.",
+      "E": "The patient experienced injuries to the head resulting in a significant decrease in the Glasgow Coma Scale."
+    },
+    "answer": "B"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What is the patient's primary diagnosis and how was it managed during hospitalization?",
+    "choices": {
+      "A": "The patient's primary diagnosis is Asthma, which was managed by continuing on home treatment of Theophylline, Fluticasone, Salmeterol, and Albuterol.",
+      "B": "The patient's primary diagnosis is Hypertension which was handled by withholding Hydrochlorothiazide and Lisinopril initially and then restarting Lisinopril during hospitalization.",
+      "C": "The patient's primary diagnosis is internal hemorrhoids, which were managed by medications including Hydrochlorothiazide, Lisinopril and Tamsulosin. Further outpatient follow-up is required.",
+      "D": "The patient's primary diagnosis is Osteoarthritis which was managed by discontinuing Naproxen due to concerns of GI bleed and managing pain with Tylenol.",
+      "E": "The patient's primary diagnosis is internal hemorrhoids, which were managed by discontinuing NSAIDs, administering stool softener and hydrocortisone suppositories. Further outpatient follow-up is required."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "Has the patient experienced any previous hospital admissions or surgical interventions prior to the acute appendicitis and the associated laparoscopic appendectomy based on the discharge summary written on 2165-02-19?",
+    "choices": {
+      "A": "The patient has undergone multiple surgical procedures in the past.",
+      "B": "The patient has a history of multiple hospital admissions due to anorexia and emesis.",
+      "C": "The patient had been hospitalized for a similar abdominal issue earlier.",
+      "D": "The patient has had previous appendectomies.",
+      "E": "The patient has never been previously admitted to a hospital or undergone any surgical procedures."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the significant postoperative observation from the patient's first admission and how was it managed?",
+    "choices": {
+      "A": "Following the surgery, a boil was observed on the patient's right thigh that was treated with daily packing and dressing changes.",
+      "B": "After the operation, the patient developed a low-grade fever from a urinary tract infection, which was managed with antibiotics.",
+      "C": "The patient was noticed to have high blood pressure post surgery, which was controlled with intravenous fluids.",
+      "D": "After the surgery, the patient complained of severe pain which was managed with a combination of intravenous and oral pain medications.",
+      "E": "After the surgery, the patient developed osteoarthritis in the left hip and subsequently underwent left total hip arthroplasty."
+    },
+    "answer": "B"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What were the causative organisms identified from the brain abscess culture during the patient's first admission and what antimicrobial therapy did the patient receive following this information?",
+    "choices": {
+      "A": "The brain abscess culture showed presence of Streptococcus anginosus and the patient was treated with Ceftriaxone and Flagyl.",
+      "B": "The culture results showed the presence of Streptococcus and the patient was started on Acetaminophen.",
+      "C": "The culture from brain abscess showed presence of gram positive cocci and the treatment given was Vancomycin and Meropenem.",
+      "D": "The abscess culture revealed the causative organism to be E.coli and the patient was treated with Penicillin.",
+      "E": "The abcess culture showed Fusobacterium and the treatment given was Ampicillin and Ceftriaxone."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the cause of the patient's GI bleeding during their visit on 2113-03-11 and what treatment was suggested to the patient?",
+    "choices": {
+      "A": "The patient's GI bleeding was caused by diverticulosis, and they were advised to continue with their usual medication and incorporate iron supplements into their diet.",
+      "B": "The patient's GI bleeding was caused by an ulcer due to NSAID overuse, which was treated with laparoscopic surgery.",
+      "C": "The patient had GI bleeding as a side effect of hypertension, and was prescribed Lisinopril to control it.",
+      "D": "The patient's GI bleeding was caused by an ulcer due to NSAID overuse, and the treatment involved administering Proton Pump Inhibitor (PPI) therapy.",
+      "E": "The patient's GI bleed was a result of colon cancer, and they were recommended to undergo an immediate surgery."
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was found in the level of neutrophils and platelets in the patient's blood on the day of discharge, and what might these levels suggest about his health status at the time of discharge?",
+    "choices": {
+      "A": " The patient showed a decreased level of neutrophils and platelets, suggesting potential infection or injury.",
+      "B": "The patient showed a increased level of neutrophils and decreased level of platelets, suggesting potential infection or injury.",
+      "C": "The patient showed a high hematocrit level, suggesting dehydration.",
+      "D": "The patient showed a high level of creatinine, suggesting kidney disease.",
+      "E": "The patient showed a high level of glucose, indicating the possibility of diabetes."
+    },
+    "answer": "B"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What were the initial clinical symptoms that led to the patient's admission on the chart dated 2137-03-25 and how was his condition treated during this hospital course?",
+    "choices": {
+      "A": "Patient was admitted for nausea, vomiting, and abdominal distension. He was treated with Intravenous Fluid rehydration and a nasogastric tube was placed. ",
+      "B": "Patient experienced a spike in PSA which led to diagnosis of prostate cancer. He was treated with robot-assisted laparoscopic radical prostatectomy.",
+      "C": "Patient presented nausea and vomitting. The treatment included robotic-assisted laparoscopic prostatectomy.",
+      "D": "Patient was hospitalized due to posteroperative pain. He was treated through PCA and oral analgesics.",
+      "E": "Chief complaint was urinary retention and patient was treated by urethral catheter insertion."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What medication was the patient prescribed to manage her C. diff infection, and were any changes made during her hospital stay?",
+    "choices": {
+      "A": "The patient was prescribed a course of furosemide to manage her C. diff infection, and it was not changed during her hospital stay.",
+      "B": "The patient was administered metoprolol tartrate 100 mg to counteract her C. diff infection, but it was changed to PO vancomycin during her hospital stay.",
+      "C": "The patient was on Levothyroxine Sodium for her C. diff infection, but it was replaced with apixaban during her hospital stay.",
+      "D": "The patient was given flagyl to manage her C. diff infection initially, and it was switched to PO vancomycin and IV metronidazole during her hospital stay.",
+      "E": "The patient was put on a regimen of PO flagyl for her C. diff infection and this medication was changed to IV vancomycin."
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What is the patient's history of perirectal abscess management and how many times has the abscess been drained?",
+    "choices": {
+      "A": "The patient has a history of simple perirectal abscesses, drained twice.",
+      "B": "The patient has a history of simple perirectal abscesses, drained once.",
+      "C": "The patient has a history of complex perirectal abscesses, drained five times.",
+      "D": "The patient has a history of complex perirectal abscesses, drained three times.",
+      "E": "The patient has a history of simple perirectal abscesses, drained six times."
+    },
+    "answer": "C"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "Based on the patient's past medical history and discharge summary, what were the symptoms the patient presented at the hospital and what was the final cause of the patient's death?",
+    "choices": {
+      "A": "The patient presented with chest pains and ultimately died from a heart attack.",
+      "B": "The patient presented with fever and cough, and their death was due to severe infection.",
+      "C": "The patient showed symptoms of dizziness and eventually passed away due to stroke.",
+      "D": "The patient arrived at the hospital with severe abdominal pain and eventually succumbed to liver failure.",
+      "E": "The patient had been experiencing shortness of breath and dyspnea and the final cause of the patient's death was hypoxic respiratory failure."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What medications was the patient prescribed upon discharge?",
+    "choices": {
+      "A": "IV Ceftriaxone and Augmentin",
+      "B": "Tdap and Cetirizine",
+      "C": "Cetirizine, Augmentin, and Prenatal Vitamins",
+      "D": "Amoxicillin-Clavulanic Acid, Tdap, and Cetirizine",
+      "E": "Amoxicillin-Clavulanic Acid, Cetirizine, and Prenatal Vitamins"
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What is the progression of the patient's lumbar treatment and its results, as seen through the three discharge summaries?",
+    "choices": {
+      "A": "After lumbar decompression L4-5 with discectomy at first admission, pain exacerbated. But there was no evidence of infection and urinary retention, the patient received conservative management without any further surgical intervention.",
+      "B": "The patient was initially admitted for surgery, then continued to recover at home, and attended physical therapy sessions routinely.",
+      "C": "The patient's symptoms of back and leg pain were managed through physical therapy sessions only, without invasive procedures.",
+      "D": "The patient underwent a single procedure of lumbar decompression during the first admission, with no subsequent procedures.",
+      "E": "At the first admission, lumbar decompression L4-5 with discectomy was done, then the pain exacerbated, leading to the second surgery which was lumbar fusion with instrumentation L4-5."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the underlying cause of the patient's hypernatremia and how was it managed during the hospital stay?",
+    "choices": {
+      "A": "The patient's hypernatremia was due to hypertension. Management involved administering isotonic fluid boluses and D5W.",
+      "B": "The patient's hypernatremia was due to pneumonia. Management involved therapy and antibiotics.",
+      "C": "The patient's hypernatremia resulted from diabetes. It was managed with insulin therapy.",
+      "D": "The patient's hypernatremia was due to Alzheimer's disease. Management involved cognitive therapy.",
+      "E": "The patient's hypernatremia was due to poor oral intake. The management involved volume resuscitation."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the patient's diagnosis for the hospital admission on 2154-01-28 and can you provide some high level details regarding the associated surgical procedure as well as the patient's discharge condition?",
+    "choices": {
+      "A": "On 2154-01-28, the patient was diagnosed with Left shoulder pain and underwent a left reverse total shoulder arthroplasty. The patient was discharged in a stable condition, ambulating without aid.",
+      "B": "The diagnosis for the patient's admission on that date was cerebral hemorrhage. The patient was subjected to a pipeline embolization, after which they remained neurologically and hemodynamically stable. They were discharged home in a stable state.",
+      "C": "The patient faced severe rotator cuff arthropathy which led to a right reverse total shoulder arthroplasty. After surgery, the patient was discharged in a steady condition, fully alert and coherent.",
+      "D": "The diagnosis for the patient's admission on that date was a left paraclinoid ICA saccular aneurysm. The patient was subjected to a pipeline embolization of left paraophthalmic aneurysm, after which they remained neurologically and hemodynamically stable. They were discharged home in a stable state.",
+      "E": "On January 28, 2154, the patient had a left shoulder operation due to osteoarthritis and a rotator cuff tear. The patient was discharged home in a stable condition following the procedure."
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What were the symptoms and complaints that the patient was experiencing prior to her surgery?",
+    "choices": {
+      "A": "The patient was experiencing some dysura and difficulty in bladder emptying.",
+      "B": "The patient was experiencing urinary incontinence, vaginal prolapse, vaginal dryness, and constipation.",
+      "C": "The patient was experiencing hematuria,UTIs and pyelonephritis.",
+      "D": "She had difficulty in having intercourse due to dyspareunia.",
+      "E": "The patient was experiencing adverse reactions to drugs."
+    },
+    "answer": "B"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What information from the patient's history of present illness and past medical history contributed to the patient's acute on chronic kidney disease?",
+    "choices": {
+      "A": "The cerebral aneurysm and right eye blindness were the primary contributing factors for patient's kidney disease management.",
+      "B": "The patient's allergy to Codeine, Shellfish, and Percocet was the main cause of her kidney disease.",
+      "C": "The patient had chronic renal insufficiency and Kaexalate causes dehydration.",
+      "D": "The patient's history of breast cancer directly influenced the decision to manage her acute on chronic kidney disease.",
+      "E": "The patient had past medical history of chronic renal insufficiency and present illness may be due to  inflammation surrounding stent "
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What is the patient's state of consciousness and mental status upon discharge as noted on his second visit?",
+    "choices": {
+      "A": "The patient was confused attributed to hepatic encephalopathy",
+      "B": "The patient was in a state of lethargy and exhibited signs of hepatic encephalopathy.",
+      "C": "The patient was mentally clear and coherent, but not very interactive.",
+      "D": "The patient was exhibiting symptoms of distress and was coping poorly with his prognosis.",
+      "E": "The patient was showing signs of a flat affect due to profound clinical decompensation."
+    },
+    "answer": "C"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What surgical procedure did the patient undergo during his second admission which was done to address the issue of knee stiffness from the prior compartment syndrome?",
+    "choices": {
+      "A": "He was given a left leg quadricepsplasty.",
+      "B": "He underwent a process called I&D and fasciotomy closure in his left thigh.",
+      "C": "His procedure involved I&D treatment with VAC change.",
+      "D": "The patient underwent a compartment release procedure with a VAC placement.",
+      "E": "The patient was given a cardiac rhythm adjustment procedure."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What medication was the patient advised to potentially restart in the outpatient setting once her Liver Function Tests (LFTs) normalize, following the possible adverse drug reaction during her admission charted on 2167-01-26?",
+    "choices": {
+      "A": "The patient was advised to restart Aspirin.",
+      "B": "The patient was advised to restart B Complex.",
+      "C": "The patient was advised to restart Vitamin D.",
+      "D": "The patient was advised to restart Hydrocerin.",
+      "E": "The patient was advised to restart lipid lowering agent."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What procedures were performed to treat the patient's injuries resulting from a fall?",
+    "choices": {
+      "A": "The patient's open right distal tibia fracture was treated with irrigation and debridement initially, and their right ankle fracture-dislocation was treated with closed reduction.",
+      "B": "The patient's fractured shoulder and elbow were surgically stabilized.",
+      "C": "The patient underwent a heart bypass surgery due to injuries sustained during the fall.",
+      "D": "The patient's fractured ribs and hip were treated with closed reduction and internal fixation.",
+      "E": "The patient's distal radius fracture on the left was reduced, and their right ankle fracture-dislocation was treated with initial irrigation and debridement."
+    },
+    "answer": "A"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What could be the potential cause for the patient's dilated right ventricle on echo and pulmonary hypertension associated with her new onset atrial fibrillation?",
+    "choices": {
+      "A": "Constant shortness of breath due to cardiomegaly and persistent pulmonary hypertension",
+      "B": "Lightheadedness and jaw pain resulting from cardiovascular issues",
+      "C": "The patient's newly developed irregular heart rhythm, atrial fibrillation",
+      "D": "Possible sleep apnea indicated by right ventricle dilatation and pulmonary hypertension",
+      "E": "Exacerbation of congestive heart failure (CHF) and chronic obstructive pulmonary disease (COPD)."
+    },
+    "answer": "D"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What was the treatment approach and the final condition of the patient during his second admission in relation to his partial small bowel obstruction?",
+    "choices": {
+      "A": "The patient was given analgesics and discharged with moderate symptoms.",
+      "B": "The patient was treated with a surgical intervention to clear the blockage.",
+      "C": "The patient's condition worsened and he was kept for observation.",
+      "D": "Patient unerwent magnetic resonance enterography and was transitioned to clear fluids and eventually ground diet, tolerated well without nausea or abdominal pain.",
+      "E": "The patient was placed on no oral intake, intravenous fluids, and a nasogastric tube, and was discharged upon tolerance of solid foods and symptom control."
+    },
+    "answer": "E"
+  },
+  {
+    "Source": "EHRNoteQA",
+    "problem": "What significant changes in the patient's medication regimen were made between the first and second hospital admissions?",
+    "choices": {
+      "A": "The patient stopped taking Ibuprofen during the second admission.",
+      "B": "The dosage of Aspirin was increased during the second admission.",
+      "C": "The patient was started on Cyclobenzaprine during the second admission.",
+      "D": "The patient was prescribed Ketoconazole during the second admission.",
+      "E": "The patient was prescribed HYDROmorphone during the second admission."
+    },
+    "answer": "B"
+  }
+]
