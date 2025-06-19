@@ -11,6 +11,7 @@
 
 ### Installation
 
+```bash
 git clone https://github.com/Monncyann/Med-U1.git
 
 conda create -n medu1 python==3.11
@@ -32,6 +33,7 @@ pip install -e .
 pip install sacrebleu
 
 pip install nltk
+```
 
 ### Prepare Data
 
@@ -42,7 +44,7 @@ You can use scripts in `scripts/data` to prepare your own dataset.
 For training with length penalty, random token constraint would be added to each case, use `--do_normal=False` and `--num_tokens=-1`, else use `--do_normal=True`. In particular, we provide the data we used for experiments in `scripts/data/processed_data`, `train_XXX.parquet` for training, `XXX.parquet` for validation and `XXX_test.parquet` for test.
 
 Example, generate data for traininng and testing Med-U1:
-```
+```python
 python scripts/data/deepscaler_dataset.py 
 ```
 
@@ -59,7 +61,7 @@ Use one of `scripts/eval` to evaluate your models. Make sure to specify the corr
 ## Acknowledgments
 
 - We would like to thank Qwen for releasing super-awesome Qwen-2.5 Models, and
-- [cmu-l3](https://github.com/cmu-l3/l1) and [fzppp](https://github.com/fzp0424/MT-R1-Zero) for codebase! This codebase is built on top of their work.
+- thanks [cmu-l3](https://github.com/cmu-l3/l1) and [fzppp](https://github.com/fzp0424/MT-R1-Zero) for codebase! This codebase is built on top of their work.
 
 
 ## Citation
