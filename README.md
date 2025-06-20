@@ -37,7 +37,7 @@ pip install nltk
 
 ### Prepare Data
 
-In this work, we use MedCalc-Bench, MediQ, EHRNoteQA, MedXpertQA and medical-o1-reasoning-SFT as in-distribution tasks, MMLU-Pro as out-of-distribution task.
+In this work, we use [MedCalc-Bench](https://github.com/ncbi-nlp/MedCalc-Bench), [MediQ](https://huggingface.co/datasets/stellalisy/mediQ), [EHRNoteQA](https://physionet.org/content/ehr-notes-qa-llms/1.0.1/), [MedXpertQA](https://huggingface.co/datasets/TsinghuaC3I/MedXpertQA) and [medical-o1-reasoning-SFT](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT) as in-distribution tasks, [MMLU-Pro](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro) as out-of-distribution task.
 
 You can use scripts in `scripts/data` to prepare your own dataset.
 
