@@ -13,25 +13,15 @@
 
 ```bash
 git clone https://github.com/Monncyann/Med-U1.git
-
 conda create -n medu1 python==3.11
-
 conda activate medu1
-
 cd Med-U1
-
 pip install -e verl
-
 pip install packaging
-
 pip install ninja
-
 pip install https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.3/flash_attn-2.7.3+cu12torch2.4cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
-
 pip install -e .
-
 pip install sacrebleu
-
 pip install nltk
 ```
 
