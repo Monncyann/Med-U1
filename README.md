@@ -10,7 +10,7 @@
 ## How to Use?
 
 ### Installation
-
+We use python 3.11 and CUDA 12.4 for experiments, you can replace it with the corresponding version according to your actual situation.
 ```bash
 git clone https://github.com/Monncyann/Med-U1.git
 conda create -n medu1 python==3.11
@@ -51,7 +51,7 @@ Use one of `scripts/eval` to evaluate your models. Make sure to specify the corr
 ## Acknowledgments
 
 - We would like to thank Qwen for releasing super-awesome Qwen-2.5 Models, and
-- thanks [cmu-l3](https://github.com/cmu-l3/l1) and [fzppp](https://github.com/fzp0424/MT-R1-Zero) for codebase! This codebase is built on top of their work.
+- thanks [cmu-l3 (L1)](https://github.com/cmu-l3/l1) and [fzppp (MT-R1-Zero)](https://github.com/fzp0424/MT-R1-Zero) for codebase! This codebase is built on top of their work.
 
 
 ## Citation
